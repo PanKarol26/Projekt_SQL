@@ -1,0 +1,5 @@
+Moja baza danych ma służyć ułatwieniu przebiegu nauki języka angielskiego
+poprzez aplikację w "potencjalnej" szkole językowej.
+
+Baza przechowuje dane o użytkownikach aplikacji, koordynatorach nauki,
+ocenach, podziale na grupy oraz słownictwie.
