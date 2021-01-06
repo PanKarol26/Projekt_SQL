@@ -1,0 +1,21 @@
+id_testu,"nazwa testu",eng_slowa,stopien_trudnosci,data,godzina
+1,"Warzywa i owoce","aubergine, cucumber, plum, watermelon, orange, garlic, carrot, blackcurrant, bramble, clove",2,2020-12-10,13:00:00
+2,idiomy,"piece of cake, easy peasy, pack of lies, hit the roof, go bananas,",3,2020-11-09,14:15:00
+3,"wygląd zewnętrzy","attractive, preety, muscled, hairy, bald, lanky, handsome, preety, tall, curly-hair, ugly",2,2021-04-04,12:45:00
+4,"uczucia, emocje","thrilled, shocked, astonished, suprised, envious, sad, exhausted, tired",3,2021-02-18,11:05:00
+5,zwierzęta,"eagle, camel, frog, snake, predator, animal, pet, raven, rattlesnake, ape",3,NULL,NULL
+6,miasto,"Vienna, Warsaw, Moscow",1,NULL,NULL
+7,rośliny,"nettle, clover, seaweed, meadow, daisy, acacia, oak, brich, spruce, grass",4,NULL,NULL
+8,"fake friends","eventually, accord, recipe, extra, fabric, dress",4,NULL,NULL
+9,"wyrażenia ogólne","What's up?, keep calm",1,NULL,NULL
+10,"czasowniki frazowe","carry out, hang out, break up, gwow up, take off, take care, go out, go on, take out, push down, breath in, breath out",2,NULL,NULL
+11,państwa,"Poland, the Czech Republic, Russia, United Kingdom, Belarus, Croatia, Hungary, Bolivia",1,NULL,NULL
+12,dom,"attic, basement, living room, bedroom, bathroom, dining room, attached house, penthouse, flat",2,NULL,NULL
+13,religia,"baptism, Jew, shrine, church, cross, Jesus, resusection, wept, Bible",2,NULL,NULL
+14,przestępstwa,"rape, vandalism, infanticide, suicide, gun, arsonist",3,NULL,NULL
+15,ubrania,"jeans, dress, anorak, coat, knickers, shirt, skirt, trousers, scarf, gloves, socks, belt, bow, tie",2,NULL,NULL
+16,"części ciała","hand, arm, finger, neck, stomach, ankle, thumb, pinky, toe, nail, pelvis, navel, backside, chin, teeth, mouth, shoulder",3,NULL,NULL
+17,szkoła,"rubber, pencilcase, notebook, pen, ruler, whiteboard, backpack, knowledge",1,NULL,NULL
+18,święta,"mistletoe, candy cane, Christmas, dumplings, carol, snow, Easter, rabbit, Santa Claus, deer, snowflake, holiday wine, bells",3,NULL,NULL
+19,hobby,"football, skiing, singing, diving, parachuting",3,NULL,NULL
+20,muzyka,"guitar, violin, piano, kalimba, lute, xylophone, drums, headphones, speakers",2,NULL,NULL

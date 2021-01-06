@@ -1,0 +1,21 @@
+id_grupy,nazwa_grupy,poziom,ilosc_miejsc,koordynator_id_koordynatora
+1,"Grupa 1",podstawowy,10,1
+2,"Grupa 2",średniozaawansowany,11,8
+3,"Grupa 3",podstawowy,10,2
+4,"Grupa 4",średniozaawansowany,8,3
+5,"Grupa 5",zaawansowany,10,7
+6,"Grupa 6",podstawowy,8,4
+7,"Grupa 7",podstawowy,7,8
+8,"Grupa 8",podstawowy,12,5
+9,"Grupa 9",zaawansowany,12,9
+10,"Grupa 10",średniozaawansowany,10,10
+11,"Grupa 11",średniozaawansowany,11,17
+12,"Grupa 12",podstawowy,11,26
+13,"Grupa 13",średniozaawansowany,9,17
+14,"Grupa 14",zaawansowany,8,13
+15,"Grupa 15",podstawowy,8,20
+16,"Grupa 16",średniozaawansowany,8,18
+17,"Grupa 17",średniozaawansowany,8,12
+18,"Grupa 18",podstawowy,7,22
+19,"Grupa 19",średniozaawansowany,9,11
+20,"Grupa 20",podstawowy,9,14
